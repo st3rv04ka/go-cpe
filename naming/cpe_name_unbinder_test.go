@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/knqyf263/go-cpe/common"
 	"github.com/pkg/errors"
+	"github.com/st3rv04ka/go-cpe/common"
 )
 
 func TestUnbindURI(t *testing.T) {

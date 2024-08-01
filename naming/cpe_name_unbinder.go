@@ -3,8 +3,8 @@ package naming
 import (
 	"strings"
 
-	"github.com/knqyf263/go-cpe/common"
 	"github.com/pkg/errors"
+	"github.com/st3rv04ka/go-cpe/common"
 )
 
 // UnbindURI is a top level function used to unbind a URI to a WFN.

@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/knqyf263/go-cpe/common"
-	"github.com/knqyf263/go-cpe/matching"
-	"github.com/knqyf263/go-cpe/naming"
+	"github.com/st3rv04ka/go-cpe/common"
+	"github.com/st3rv04ka/go-cpe/matching"
+	"github.com/st3rv04ka/go-cpe/naming"
 )
 
 func main() {

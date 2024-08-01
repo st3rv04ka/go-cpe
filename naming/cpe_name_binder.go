@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/knqyf263/go-cpe/common"
+	"github.com/st3rv04ka/go-cpe/common"
 )
 
 // BindToURI a {@link WellFormedName} object to a URI.

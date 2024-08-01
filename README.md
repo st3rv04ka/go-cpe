@@ -2,8 +2,8 @@
 
 [![Build Status](https://travis-ci.org/knqyf263/go-cpe.svg?branch=master)](https://travis-ci.org/knqyf263/go-cpe)
 [![Coverage Status](https://coveralls.io/repos/github/knqyf263/go-cpe/badge.svg?branch=initial)](https://coveralls.io/github/knqyf263/go-cpe?branch=initial)
-[![Go Report Card](https://goreportcard.com/badge/github.com/knqyf263/go-cpe)](https://goreportcard.com/report/github.com/knqyf263/go-cpe)
-[![GoDoc](https://godoc.org/github.com/knqyf263/go-cpe?status.svg)](https://godoc.org/github.com/knqyf263/go-cpe)
+[![Go Report Card](https://goreportcard.com/badge/github.com/st3rv04ka/go-cpe)](https://goreportcard.com/report/github.com/st3rv04ka/go-cpe)
+[![GoDoc](https://godoc.org/github.com/st3rv04ka/go-cpe?status.svg)](https://godoc.org/github.com/st3rv04ka/go-cpe)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](/LICENSE)
 
 A Go library for [CPE(A Common Platform Enumeration 2.3)](https://cpe.mitre.org/specification/)
@@ -17,7 +17,7 @@ For the reference Java implementation, see: https://cpe.mitre.org/specification/
 Installation can be done with a normal go get:
 
 ```
-$ go get github.com/knqyf263/go-cpe/...
+$ go get github.com/st3rv04ka/go-cpe/...
 ```
 
 ## Compare
@@ -29,8 +29,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/knqyf263/go-cpe/matching"
-	"github.com/knqyf263/go-cpe/naming"
+	"github.com/st3rv04ka/go-cpe/matching"
+	"github.com/st3rv04ka/go-cpe/naming"
 )
 
 func main() {
@@ -53,8 +53,8 @@ func main() {
 
 # Contribute
 
-1. fork a repository: github.com/knqyf263/go-cpe to github.com/you/repo
-2. get original code: `go get github.com/knqyf263/go-cpe`
+1. fork a repository: github.com/st3rv04ka/go-cpe to github.com/you/repo
+2. get original code: `go get github.com/st3rv04ka/go-cpe`
 3. work on original code
 4. add remote to your repo: git remote add myfork https://github.com/you/repo.git
 5. push your changes: git push myfork

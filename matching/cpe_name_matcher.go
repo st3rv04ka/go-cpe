@@ -3,7 +3,7 @@ package matching
 import (
 	"strings"
 
-	"github.com/knqyf263/go-cpe/common"
+	"github.com/st3rv04ka/go-cpe/common"
 )
 
 // Relation is enumeration for relational values.

@@ -1,4 +1,4 @@
-module github.com/knqyf263/go-cpe
+module github.com/st3rv04ka/go-cpe
 
 go 1.15
 

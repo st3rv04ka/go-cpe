@@ -3,7 +3,7 @@ package naming
 import (
 	"testing"
 
-	"github.com/knqyf263/go-cpe/common"
+	"github.com/st3rv04ka/go-cpe/common"
 )
 
 var (
